@@ -1,16 +1,27 @@
-## Hi there 👋
+# **안녕하세요 백엔드 개발자 이호성입니다**
 
-<!--
-**hosunglee222/hosunglee222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+봇에 의해 계정이 flagged 처리되어 임시 사용하는 계정입니다.
+ 
+<br>
 
-Here are some ideas to get you started:
+### **Solved.ac**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gik11kr)](https://solved.ac/gik11kr/)
+
+<br>
+
+## **My Favorit stack** 📕
+
+![python](https://img.shields.io/badge/%20-Python-yellow?style=flat&logo=python&logoColor=ffffff)
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+![Mysql](https://img.shields.io/badge/%20-MySQL-importnat?style=flat&logo=MySQL&logoColor=ffffff)
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white">
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosung-222&layout=compact)](https://github.com/hosung-222)
+<br>
+
+### **Git star**
+
+![hosung-222's github stats](https://github-readme-stats.vercel.app/api?username=hosung-222&show_icons=true)
