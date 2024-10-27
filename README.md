@@ -29,7 +29,7 @@ https://h-castle.tistory.com/entry/Github-Account-Flagged-%EA%B3%84%EC%A0%95-%EC
 <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosung-222&layout=compact)](https://github.com/hosunglee222)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosunglee222&layout=compact)](https://github.com/hosunglee222)
 <br>
 
 ### **Git star**
