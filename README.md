@@ -3,13 +3,11 @@
 봇에 의해 계정이 flagged 처리되어 임시 사용하는 계정입니다.
 
 ## 깃허브 정지 일대기.. 2024.08.27 ~ 진행중
-1편
-<br>
-https://h-castle.tistory.com/entry/Github-Your-account-has-been-flagged-%EC%98%81%EB%AC%B8-%EB%AA%A8%EB%A5%BC-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%A0%95%EC%A7%80
 
-2편
-<br>
-https://h-castle.tistory.com/entry/Github-Account-Flagged-%EA%B3%84%EC%A0%95-%EC%A0%95%EC%A7%80%EC%9D%98-%EC%8B%A4%EB%A7%88%EB%A6%AC%EB%A5%BC-%EC%B0%BE%EB%8B%A4
+[1편 - GitHub 계정 정지 이야기](https://h-castle.tistory.com/entry/Github-Your-account-has-been-flagged-%EC%98%81%EB%AC%B8-%EB%AA%A8%EB%A5%BC-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%A0%95%EC%A7%80)
+
+[2편 - GitHub 계정 정지의 실마리 찾기](https://h-castle.tistory.com/entry/Github-Account-Flagged-%EA%B3%84%EC%A0%95-%EC%A0%95%EC%A7%80%EC%9D%98-%EC%8B%A4%EB%A7%88%EB%A6%AC%EB%A5%BC-%EC%B0%BE%EB%8B%A4)
+
 
  
 <br>
